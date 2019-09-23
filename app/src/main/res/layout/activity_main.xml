@@ -24,7 +24,7 @@
         android:layout_height="45dp"
         android:layout_marginTop="20dp"
         android:background="#FFC107"
-        android:text="Экран 2"
+        android:text="@string/btnScreen2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.504"
         app:layout_constraintStart_toStartOf="parent"

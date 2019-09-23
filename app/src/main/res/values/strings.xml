@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RouteScreen</string>
+    <string name="btnScreen2">Второй Экран</string>
 </resources>

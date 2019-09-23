@@ -11,8 +11,9 @@ private Button btnScreen;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        addListenerOnButton ();
     }
-    public void addListenerActivity () {
+    public void addListenerOnButton () {
 
     }
 }
